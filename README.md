@@ -2,4 +2,4 @@
 
 ## Analyzing Historical Stock/Revenue Data and Building a Dashboard For TSLA and GME
 
-From Coursera [IBM Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) of IBM Data Science Professional Certificate
+From Coursera course [IBM Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science) of IBM Data Science Professional Certificate
